@@ -1,6 +1,9 @@
-# tp-prolog
+## Tp-Prolog  
 
-Nota Clave...
+This is a Connect 4 logic program developed in Prolog for the subject *"Programming Paradigms"* at UTN.  
+This project implements the basic game dynamics and includes added functionality to evaluate the quality of potential moves.  
 
-El Tp está hecho para ser visualizado correctamente en Swich online (Por el rendering)
-no sé si funcionará en el IDE que nos dieron para windows en la catedra
+### How to Run  
+For the best user experience, we recommend running this code in [SWISH](https://swish.swi-prolog.org/), an online Prolog environment.  
+
+---  
